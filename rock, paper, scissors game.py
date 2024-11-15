@@ -54,22 +54,6 @@ while True:
 
     if name == 'stop' or age == 'stop':
         break
-# # import random
-# # options = [
-# #     ["A. snake", "B. program", "C. programming language", "D. reptile with legs"],
-# #     ["A. Lagos", "B. Ikeja", "C. Abuja", "D. Port Harcourt"],
-# #     ["A. 2", "B. 1", "C. All of the above", "D. Depends if there's a leap year"],
-# #     ["A. 150", "B. 75", "C. 25", "D. 50"],
-# #     ["A. Justin Bieber", "B. Usher", "C. Emekus", "D. Ed Sheeran"]
-# # ]
-
-# # word = random.shuffle(options)
-# # # shuffled_word = ''.join(word)
-# # # print(shuffled_word)
-# # for nested_list in options:
-# #     for item in nested_list:
-# #         print(item)
-
 
 
 
